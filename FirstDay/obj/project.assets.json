@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hp\\OneDrive\\Desktop\\.NET\\FirstApp\\FirstApp.csproj",
+      "projectUniqueName": "C:\\Users\\hp\\OneDrive\\Desktop\\.NET\\FirstDay\\FirstApp.csproj",
       "projectName": "FirstApp",
-      "projectPath": "C:\\Users\\hp\\OneDrive\\Desktop\\.NET\\FirstApp\\FirstApp.csproj",
+      "projectPath": "C:\\Users\\hp\\OneDrive\\Desktop\\.NET\\FirstDay\\FirstApp.csproj",
       "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hp\\OneDrive\\Desktop\\.NET\\FirstApp\\obj\\",
+      "outputPath": "C:\\Users\\hp\\OneDrive\\Desktop\\.NET\\FirstDay\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config"
