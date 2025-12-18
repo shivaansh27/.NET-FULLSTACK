@@ -6,6 +6,10 @@ class Area
     //    AOC.area_of_circle();
     //    FTC.FeetToCentimeter();
     //    STM.SecondsToMinutes();
-    EO.EvenOrOdd();
+    //    EO.EvenOrOdd();
+    //    DL.DrivingLicense();
+    // LOT.LargestofThree();
+    // SOD.SumOfDigits();
+    RN.ReverseNumber();
 }
 }
