@@ -1,0 +1,15 @@
+C:\Users\hp\OneDrive\Desktop\.NET\SecondDay\obj\Debug\net10.0\SecondDay.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\OneDrive\Desktop\.NET\SecondDay\obj\Debug\net10.0\SecondDay.AssemblyInfoInputs.cache
+C:\Users\hp\OneDrive\Desktop\.NET\SecondDay\obj\Debug\net10.0\SecondDay.AssemblyInfo.cs
+C:\Users\hp\OneDrive\Desktop\.NET\SecondDay\obj\Debug\net10.0\SecondDay.csproj.CoreCompileInputs.cache
+C:\Users\hp\OneDrive\Desktop\.NET\SecondDay\obj\Debug\net10.0\SecondDay.sourcelink.json
+C:\Users\hp\OneDrive\Desktop\.NET\SecondDay\bin\Debug\net10.0\SecondDay.exe
+C:\Users\hp\OneDrive\Desktop\.NET\SecondDay\bin\Debug\net10.0\SecondDay.deps.json
+C:\Users\hp\OneDrive\Desktop\.NET\SecondDay\bin\Debug\net10.0\SecondDay.runtimeconfig.json
+C:\Users\hp\OneDrive\Desktop\.NET\SecondDay\bin\Debug\net10.0\SecondDay.dll
+C:\Users\hp\OneDrive\Desktop\.NET\SecondDay\bin\Debug\net10.0\SecondDay.pdb
+C:\Users\hp\OneDrive\Desktop\.NET\SecondDay\obj\Debug\net10.0\SecondDay.dll
+C:\Users\hp\OneDrive\Desktop\.NET\SecondDay\obj\Debug\net10.0\refint\SecondDay.dll
+C:\Users\hp\OneDrive\Desktop\.NET\SecondDay\obj\Debug\net10.0\SecondDay.pdb
+C:\Users\hp\OneDrive\Desktop\.NET\SecondDay\obj\Debug\net10.0\SecondDay.genruntimeconfig.cache
+C:\Users\hp\OneDrive\Desktop\.NET\SecondDay\obj\Debug\net10.0\ref\SecondDay.dll
