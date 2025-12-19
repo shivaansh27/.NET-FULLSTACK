@@ -37,6 +37,7 @@ class FCS
                     income = Convert.ToInt32(Console.ReadLine());
                         if (income < 0)
                         {
+                            
                             Console.WriteLine("Income cannot be less than zero");
                         }
                     }while(income<0);
