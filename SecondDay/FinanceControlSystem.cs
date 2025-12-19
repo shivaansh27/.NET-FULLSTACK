@@ -5,7 +5,7 @@ class FCS
     public static void FinanceControlSystem()
     {
         string get_out = "";
-        double current_balance = 50000;
+        // double current_balance = 50000;
 
         do
         {
@@ -22,12 +22,24 @@ class FCS
             {
                 case 1:
                     Console.WriteLine("\nLoan Eligibility Check");
+                    int age;
+                    do{
                     Console.Write("Enter your age: ");
-                    int age = Convert.ToInt32(Console.ReadLine());
-
+                    age = Convert.ToInt32(Console.ReadLine());
+                    if(age < 0)
+                        {
+                            Console.WriteLine("Age cannot be negative.");
+                        }
+                    }while(age<0);
+                    int income;
+                    do{
                     Console.Write("Enter your monthly income: ");
-                    int income = Convert.ToInt32(Console.ReadLine());
-
+                    income = Convert.ToInt32(Console.ReadLine());
+                        if (income < 0)
+                        {
+                            Console.WriteLine("Income cannot be less than zero");
+                        }
+                    }while(income<0);
                     if (age >= 21 && income >= 30000)
                         Console.WriteLine("You are eligible for loan.");
                     else if (age < 21)
@@ -39,9 +51,15 @@ class FCS
 
                 case 2:
                     Console.WriteLine("\nIncome Tax Calculator");
+                    int annual_income;
+                do{
                     Console.Write("Enter your annual income: ");
-                    int annual_income = Convert.ToInt32(Console.ReadLine());
-
+                    annual_income = Convert.ToInt32(Console.ReadLine());
+                      if (annual_income < 0)
+        {
+            Console.WriteLine("Income cannot be negative. Please enter again.");
+        }
+                }while(annual_income<0);
                     if (annual_income <= 250000)
                         Console.WriteLine("No tax applicable.");
                     else if (annual_income <= 500000)
@@ -50,25 +68,35 @@ class FCS
                         Console.WriteLine($"Income Tax: {0.2 * annual_income}");
                     else
                         Console.WriteLine($"Income Tax: {0.3 * annual_income}");
-
                     break;
 
                 case 3:
-                    Console.WriteLine($"\nCurrent Balance: {current_balance}");
-                    Console.Write("Enter withdrawal amount: ");
-                    double withdrawal_amount = Convert.ToDouble(Console.ReadLine());
-
-                    if (withdrawal_amount <= 0)
-                        Console.WriteLine("Amount must be greater than zero.");
-                    else if (withdrawal_amount > current_balance)
-                        Console.WriteLine("Insufficient balance.");
-                    else
+                    string choose = "";
+                    int ch;
+                    string leave = "";
+                    do{
+                        Console.WriteLine("1.Debit: \n2.Credit: \n3.Exit: ");
+                    Console.Write("Enter Your Choice: ");
+                    ch = Convert.ToInt32(Console.ReadLine());
+                    switch (ch)
                     {
-                        current_balance -= withdrawal_amount;
-                        Console.WriteLine("Withdrawal successful.");
-                        Console.WriteLine($"Remaining Balance: {current_balance}");
-                    }
+                        case 1:
+                            DBT.DebitClass();
+                            break;
+                        
+                        case 2:
+                            CDT.CreditClass();
+                            break;
+                        case 3:
+                            leave = "exit";
+                            break;
 
+                        default:
+                            Console.WriteLine("Enter Valid Choice.");
+                            choose = "invalid";
+                            break;
+                    }
+                    }while(choose == "invalid" || leave != "exit");
                     break;
 
                 case 4:
