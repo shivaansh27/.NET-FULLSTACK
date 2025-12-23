@@ -1,0 +1,15 @@
+C:\Users\hp\OneDrive\Desktop\.NET\FifthDay\obj\Debug\net10.0\FifthDay.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\OneDrive\Desktop\.NET\FifthDay\obj\Debug\net10.0\FifthDay.AssemblyInfoInputs.cache
+C:\Users\hp\OneDrive\Desktop\.NET\FifthDay\obj\Debug\net10.0\FifthDay.AssemblyInfo.cs
+C:\Users\hp\OneDrive\Desktop\.NET\FifthDay\obj\Debug\net10.0\FifthDay.csproj.CoreCompileInputs.cache
+C:\Users\hp\OneDrive\Desktop\.NET\FifthDay\obj\Debug\net10.0\FifthDay.sourcelink.json
+C:\Users\hp\OneDrive\Desktop\.NET\FifthDay\bin\Debug\net10.0\FifthDay.exe
+C:\Users\hp\OneDrive\Desktop\.NET\FifthDay\bin\Debug\net10.0\FifthDay.deps.json
+C:\Users\hp\OneDrive\Desktop\.NET\FifthDay\bin\Debug\net10.0\FifthDay.runtimeconfig.json
+C:\Users\hp\OneDrive\Desktop\.NET\FifthDay\bin\Debug\net10.0\FifthDay.dll
+C:\Users\hp\OneDrive\Desktop\.NET\FifthDay\bin\Debug\net10.0\FifthDay.pdb
+C:\Users\hp\OneDrive\Desktop\.NET\FifthDay\obj\Debug\net10.0\FifthDay.dll
+C:\Users\hp\OneDrive\Desktop\.NET\FifthDay\obj\Debug\net10.0\refint\FifthDay.dll
+C:\Users\hp\OneDrive\Desktop\.NET\FifthDay\obj\Debug\net10.0\FifthDay.pdb
+C:\Users\hp\OneDrive\Desktop\.NET\FifthDay\obj\Debug\net10.0\FifthDay.genruntimeconfig.cache
+C:\Users\hp\OneDrive\Desktop\.NET\FifthDay\obj\Debug\net10.0\ref\FifthDay.dll

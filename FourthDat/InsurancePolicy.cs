@@ -10,7 +10,7 @@ abstract class InsurancePolicy
     public double Premium
     {
         get { return premium; }
-        set 
+        set     
         {
             if (value >= 0)
             {
