@@ -1,35 +1,59 @@
 ﻿using System;
+
 class Program
 {
     public static void Main()
     {
-        StockPrice s1 = new StockPrice
+        TradeRepository<EquityTrade> repository = new TradeRepository<EquityTrade>();
+
+        EquityTrade t1 = new EquityTrade
         {
-            StockSymbol = "TCS",
-            Price = 101
-        };
-
-        StockPrice s2 = s1;
-        s2.StockSymbol = "REDMI";
-        s2.Price = 290.0;
-
-        Console.WriteLine($"Original Stock Price: {s1.StockSymbol} - {s1.Price}");
-        Console.WriteLine($"Updated Stock Price: {s2.StockSymbol} - {s2.Price}");
-
-        Trade trade = new Trade
-        {
-            TradeId = 101,
+            TradeId = 1,
             StockSymbol = "AAPL",
-            Quantity = 100
+            Quantity = 100,
+            MarketPrice = 150.50
         };
 
-        Trade trade2 = trade;
-        trade2.TradeId = 202;
-        trade2.StockSymbol = "TCS";
-        trade2.Quantity = 203;
+        TradeProcessor.ProcessTrade(t1);
 
-        Console.WriteLine($"Original Stock: {trade.TradeId} - {trade.StockSymbol} - {trade.Quantity}");
-        Console.WriteLine($"Updated Stock: {trade.TradeId} - {trade.StockSymbol} - {trade.Quantity}");
+        double tradeValue1 = t1.CalculateTradeValue();
+        double brokerage1 = tradeValue1.CalculateBrokerage(0.001);
+        double gst1 = tradeValue1.CalculateGst(0.00018);
 
+        Console.WriteLine($"Trade Value: {tradeValue1}");
+        Console.WriteLine($"Brokerage: {brokerage1}");
+        Console.WriteLine($"GST: {gst1}");
+        Console.WriteLine(
+            $"TradeId: {t1.TradeId}, Symbol: {t1.StockSymbol}, Qty: {t1.Quantity}"
+        );
+        Console.WriteLine();
+
+        repository.AddTrade(t1);
+
+        EquityTrade t2 = new EquityTrade
+        {
+            TradeId = 2,
+            StockSymbol = "MSFT",
+            Quantity = 50,
+            MarketPrice = null
+        };
+
+        TradeProcessor.ProcessTrade(t2);
+
+        double tradeValue2 = t2.CalculateTradeValue();
+        double brokerage2 = tradeValue2.CalculateBrokerage(0.001);
+        double gst2 = tradeValue2.CalculateGst(0.00018);
+
+        Console.WriteLine($"Trade Value: {tradeValue2}");
+        Console.WriteLine($"Brokerage: {brokerage2}");
+        Console.WriteLine($"GST: {gst2}");
+        Console.WriteLine(
+            $"TradeId: {t2.TradeId}, Symbol: {t2.StockSymbol}, Qty: {t2.Quantity}"
+        );
+        Console.WriteLine();
+
+        repository.AddTrade(t2);
+
+        TradeAnalytics.DisplayAnalytics();
     }
 }
