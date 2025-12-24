@@ -1,0 +1,15 @@
+C:\Users\hp\OneDrive\Desktop\.NET\SixthDay\bin\Debug\net10.0\SixthDay.exe
+C:\Users\hp\OneDrive\Desktop\.NET\SixthDay\bin\Debug\net10.0\SixthDay.deps.json
+C:\Users\hp\OneDrive\Desktop\.NET\SixthDay\bin\Debug\net10.0\SixthDay.runtimeconfig.json
+C:\Users\hp\OneDrive\Desktop\.NET\SixthDay\bin\Debug\net10.0\SixthDay.dll
+C:\Users\hp\OneDrive\Desktop\.NET\SixthDay\bin\Debug\net10.0\SixthDay.pdb
+C:\Users\hp\OneDrive\Desktop\.NET\SixthDay\obj\Debug\net10.0\SixthDay.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\OneDrive\Desktop\.NET\SixthDay\obj\Debug\net10.0\SixthDay.AssemblyInfoInputs.cache
+C:\Users\hp\OneDrive\Desktop\.NET\SixthDay\obj\Debug\net10.0\SixthDay.AssemblyInfo.cs
+C:\Users\hp\OneDrive\Desktop\.NET\SixthDay\obj\Debug\net10.0\SixthDay.csproj.CoreCompileInputs.cache
+C:\Users\hp\OneDrive\Desktop\.NET\SixthDay\obj\Debug\net10.0\SixthDay.sourcelink.json
+C:\Users\hp\OneDrive\Desktop\.NET\SixthDay\obj\Debug\net10.0\SixthDay.dll
+C:\Users\hp\OneDrive\Desktop\.NET\SixthDay\obj\Debug\net10.0\refint\SixthDay.dll
+C:\Users\hp\OneDrive\Desktop\.NET\SixthDay\obj\Debug\net10.0\SixthDay.pdb
+C:\Users\hp\OneDrive\Desktop\.NET\SixthDay\obj\Debug\net10.0\SixthDay.genruntimeconfig.cache
+C:\Users\hp\OneDrive\Desktop\.NET\SixthDay\obj\Debug\net10.0\ref\SixthDay.dll
