@@ -1,0 +1,15 @@
+C:\Users\hp\OneDrive\Desktop\.NET\SaturdayAssignments\obj\Debug\net10.0\SaturdayAssignments.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\OneDrive\Desktop\.NET\SaturdayAssignments\obj\Debug\net10.0\SaturdayAssignments.AssemblyInfoInputs.cache
+C:\Users\hp\OneDrive\Desktop\.NET\SaturdayAssignments\obj\Debug\net10.0\SaturdayAssignments.AssemblyInfo.cs
+C:\Users\hp\OneDrive\Desktop\.NET\SaturdayAssignments\obj\Debug\net10.0\SaturdayAssignments.csproj.CoreCompileInputs.cache
+C:\Users\hp\OneDrive\Desktop\.NET\SaturdayAssignments\obj\Debug\net10.0\SaturdayAssignments.sourcelink.json
+C:\Users\hp\OneDrive\Desktop\.NET\SaturdayAssignments\bin\Debug\net10.0\SaturdayAssignments.exe
+C:\Users\hp\OneDrive\Desktop\.NET\SaturdayAssignments\bin\Debug\net10.0\SaturdayAssignments.deps.json
+C:\Users\hp\OneDrive\Desktop\.NET\SaturdayAssignments\bin\Debug\net10.0\SaturdayAssignments.runtimeconfig.json
+C:\Users\hp\OneDrive\Desktop\.NET\SaturdayAssignments\bin\Debug\net10.0\SaturdayAssignments.dll
+C:\Users\hp\OneDrive\Desktop\.NET\SaturdayAssignments\bin\Debug\net10.0\SaturdayAssignments.pdb
+C:\Users\hp\OneDrive\Desktop\.NET\SaturdayAssignments\obj\Debug\net10.0\SaturdayAssignments.dll
+C:\Users\hp\OneDrive\Desktop\.NET\SaturdayAssignments\obj\Debug\net10.0\refint\SaturdayAssignments.dll
+C:\Users\hp\OneDrive\Desktop\.NET\SaturdayAssignments\obj\Debug\net10.0\SaturdayAssignments.pdb
+C:\Users\hp\OneDrive\Desktop\.NET\SaturdayAssignments\obj\Debug\net10.0\SaturdayAssignments.genruntimeconfig.cache
+C:\Users\hp\OneDrive\Desktop\.NET\SaturdayAssignments\obj\Debug\net10.0\ref\SaturdayAssignments.dll
