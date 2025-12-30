@@ -1,161 +1,75 @@
 ﻿using System;
-
-class PatientBill
-{
-    public string BillId { get; set; }
-    public string PatientName { get; set; }
-    public bool HasInsurance { get; set; }
-    public decimal ConsultationFee { get; set; }
-    public decimal LabCharges { get; set; }
-    public decimal MedicineCharges { get; set; }
-    public decimal GrossAmount { get; set; }
-    public decimal DiscountAmount { get; set; }
-    public decimal FinalPayable { get; set; }
-}
-
-class BillingService
-{
-    private static PatientBill lastBill;
-
-    public static void CreateNewBill()
-    {
-        PatientBill bill = new PatientBill();
-
-        while (true)
-        {
-            Console.Write("Enter Bill Id: ");
-            bill.BillId = Console.ReadLine();
-            if (!string.IsNullOrWhiteSpace(bill.BillId))
-                break;
-            Console.WriteLine("Bill Id cannot be empty.");
-        }
-
-        bill.PatientName = ReadName("Enter Patient Name: ");
-        bill.HasInsurance = ReadYesNo("Is the patient insured? (Y/N): ");
-
-        bill.ConsultationFee = ReadDecimal("Enter Consultation Fee: ", true);
-        bill.LabCharges = ReadDecimal("Enter Lab Charges: ", false);
-        bill.MedicineCharges = ReadDecimal("Enter Medicine Charges: ", false);
-
-        bill.GrossAmount = bill.ConsultationFee + bill.LabCharges + bill.MedicineCharges;
-        bill.DiscountAmount = bill.HasInsurance ? bill.GrossAmount * 0.10m : 0;
-        bill.FinalPayable = bill.GrossAmount - bill.DiscountAmount;
-
-        lastBill = bill;
-
-        Console.WriteLine("\nBill created successfully");
-        Console.WriteLine($"Gross Amount: {bill.GrossAmount:F2}");
-        Console.WriteLine($"Discount Amount: {bill.DiscountAmount:F2}");
-        Console.WriteLine($"Final Payable: {bill.FinalPayable:F2}");
-    }
-
-    public static void ViewLastBill()
-    {
-        if (lastBill == null)
-        {
-            Console.WriteLine("No bill available.");
-            return;
-        }
-
-        Console.WriteLine("\nLast Bill");
-        Console.WriteLine($"Bill Id: {lastBill.BillId}");
-        Console.WriteLine($"Patient Name: {lastBill.PatientName}");
-        Console.WriteLine($"Insured: {(lastBill.HasInsurance ? "Yes" : "No")}");
-        Console.WriteLine($"Consultation Fee: {lastBill.ConsultationFee:F2}");
-        Console.WriteLine($"Lab Charges: {lastBill.LabCharges:F2}");
-        Console.WriteLine($"Medicine Charges: {lastBill.MedicineCharges:F2}");
-        Console.WriteLine($"Final Payable: {lastBill.FinalPayable:F2}");
-    }
-
-    public static void ClearLastBill()
-    {
-        lastBill = null;
-        Console.WriteLine("Last bill cleared.");
-    }
-
-    private static string ReadName(string message)
-    {
-        while (true)
-        {
-            Console.Write(message);
-            string input = Console.ReadLine();
-
-            if (!string.IsNullOrWhiteSpace(input))
-            {
-                bool valid = true;
-                foreach (char c in input)
-                {
-                    if (!char.IsLetter(c) && c != ' ')
-                    {
-                        valid = false;
-                        break;
-                    }
-                }
-                if (valid)
-                    return input;
-            }
-
-            Console.WriteLine("Invalid name.");
-        }
-    }
-
-    private static bool ReadYesNo(string message)
-    {
-        while (true)
-        {
-            Console.Write(message);
-            string input = Console.ReadLine().ToUpper();
-            if (input == "Y") return true;
-            if (input == "N") return false;
-            Console.WriteLine("Please enter Y or N.");
-        }
-    }
-
-    private static decimal ReadDecimal(string message, bool mustBePositive)
-    {
-        while (true)
-        {
-            Console.Write(message);
-            if (decimal.TryParse(Console.ReadLine(), out decimal value))
-            {
-                if (mustBePositive && value <= 0) continue;
-                if (!mustBePositive && value < 0) continue;
-                return value;
-            }
-            Console.WriteLine("Invalid number.");
-        }
-    }
-}
-
+using System.Text;
+using System.Text.RegularExpressions;
 class Program
 {
-    static void Main()
+    public static void Main()
     {
-        while (true)
-        {
-            Console.WriteLine("\nMediSure Clinic Billing");
-            Console.WriteLine("1. Create New Bill");
-            Console.WriteLine("2. View Last Bill");
-            Console.WriteLine("3. Clear Last Bill");
-            Console.WriteLine("4. Exit");
-            Console.Write("Choose option: ");
+        //string Sentence = "@123_123";
+        // string pattern = @"\d";
+        // string Sentence = "123_123";
+        // string pattern = @"\d*";
+        // string pattern = @"\w";
+        // string pattern = @"\W";
+        // string pattern = @"\s";
+        // string pattern = @"\S";
+        // string pattern = @"\.txt";
+        // string pattern = @"lo$";
+        // string pattern = "@Hello$";
+        // string pattern = @"(?<year>\d{4})-(?<month>\d{2})-(?<date>\d{2})";
+        // string pattern = @"a...e";
+        // string Sentence = "Amount: 5000";
+        // string Sentence = "10A20B30C!@_abc _0!\t file.txt";'
+        // string Sentence = "Hello";
+        // string Sentence = "2025-12-29";
+        // string Sentence = "1992/02/03, 1990-01-01, 2025";
+        // string Sentence= "a123e, apples, a!-@e frappe grapple";
+        // bool result = Regex.Match(Sentence,pattern);
+        // MatchCollection m = Regex.Matches(Sentence,pattern);
+        // foreach(Match a in m)
+        // {
+        //     Console.WriteLine(a);
+        // }
+        // MatchCollection math = Regex.Matches(Sentence,pattern);
+        // foreach(Match m in math)
+        // {
+        //     Console.WriteLine(m.Groups[2].Value);
+        // }
+        // MatchCollection matches = Regex.Matches(Sentence,pattern);
+        // foreach(Match m in matches)
+        // {
+        //     Console.WriteLine(m);
+        // }
 
-            switch (Console.ReadLine())
+        List<string> Emails = new List<string>
+        {
+            "john.doe@gmail.com",
+            "alice_123@yahoo.in",
+            "mark.smith@company.com",
+            "support-abc@banking.co.in",
+            "user.nametag@domain.org",
+            "john.doe@gmail",         
+            "alice@@yahoo.com",
+            "mark.smith@.com",        
+            "support@banking..com",    
+            "user name@gmail.com",     
+            "@domain.com",            
+            "admin@domain",           
+            "info@domain,com",         
+            "finance#dept@corp.com",  
+            "plainaddress"             
+
+        };
+        string pattern = @"^[\w-]+(\.[\w-]+)*@[\w-]+(\.[\w-]+)+$";
+         foreach (string email in Emails)
+        {
+            if (Regex.IsMatch(email, pattern))
             {
-                case "1":
-                    BillingService.CreateNewBill();
-                    break;
-                case "2":
-                    BillingService.ViewLastBill();
-                    break;
-                case "3":
-                    BillingService.ClearLastBill();
-                    break;
-                case "4":
-                    return;
-                default:
-                    Console.WriteLine("Invalid choice.");
-                    break;
+                Console.WriteLine($"Valid:   {email}");
+            }
+            else
+            {
+                Console.WriteLine($"Invalid: {email}");
             }
         }
     }

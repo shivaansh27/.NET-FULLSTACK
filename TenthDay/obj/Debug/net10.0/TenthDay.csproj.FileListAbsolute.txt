@@ -1,0 +1,15 @@
+C:\Users\hp\OneDrive\Desktop\.NET\TenthDay\bin\Debug\net10.0\TenthDay.exe
+C:\Users\hp\OneDrive\Desktop\.NET\TenthDay\bin\Debug\net10.0\TenthDay.deps.json
+C:\Users\hp\OneDrive\Desktop\.NET\TenthDay\bin\Debug\net10.0\TenthDay.runtimeconfig.json
+C:\Users\hp\OneDrive\Desktop\.NET\TenthDay\bin\Debug\net10.0\TenthDay.dll
+C:\Users\hp\OneDrive\Desktop\.NET\TenthDay\bin\Debug\net10.0\TenthDay.pdb
+C:\Users\hp\OneDrive\Desktop\.NET\TenthDay\obj\Debug\net10.0\TenthDay.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\OneDrive\Desktop\.NET\TenthDay\obj\Debug\net10.0\TenthDay.AssemblyInfoInputs.cache
+C:\Users\hp\OneDrive\Desktop\.NET\TenthDay\obj\Debug\net10.0\TenthDay.AssemblyInfo.cs
+C:\Users\hp\OneDrive\Desktop\.NET\TenthDay\obj\Debug\net10.0\TenthDay.csproj.CoreCompileInputs.cache
+C:\Users\hp\OneDrive\Desktop\.NET\TenthDay\obj\Debug\net10.0\TenthDay.sourcelink.json
+C:\Users\hp\OneDrive\Desktop\.NET\TenthDay\obj\Debug\net10.0\TenthDay.dll
+C:\Users\hp\OneDrive\Desktop\.NET\TenthDay\obj\Debug\net10.0\refint\TenthDay.dll
+C:\Users\hp\OneDrive\Desktop\.NET\TenthDay\obj\Debug\net10.0\TenthDay.pdb
+C:\Users\hp\OneDrive\Desktop\.NET\TenthDay\obj\Debug\net10.0\TenthDay.genruntimeconfig.cache
+C:\Users\hp\OneDrive\Desktop\.NET\TenthDay\obj\Debug\net10.0\ref\TenthDay.dll
