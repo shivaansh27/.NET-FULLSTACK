@@ -1,0 +1,15 @@
+C:\Users\hp\OneDrive\Desktop\.NET\HospitalSystem\obj\Debug\net10.0\HospitalSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\OneDrive\Desktop\.NET\HospitalSystem\obj\Debug\net10.0\HospitalSystem.AssemblyInfoInputs.cache
+C:\Users\hp\OneDrive\Desktop\.NET\HospitalSystem\obj\Debug\net10.0\HospitalSystem.AssemblyInfo.cs
+C:\Users\hp\OneDrive\Desktop\.NET\HospitalSystem\obj\Debug\net10.0\HospitalSystem.csproj.CoreCompileInputs.cache
+C:\Users\hp\OneDrive\Desktop\.NET\HospitalSystem\obj\Debug\net10.0\HospitalSystem.sourcelink.json
+C:\Users\hp\OneDrive\Desktop\.NET\HospitalSystem\bin\Debug\net10.0\HospitalSystem.exe
+C:\Users\hp\OneDrive\Desktop\.NET\HospitalSystem\bin\Debug\net10.0\HospitalSystem.deps.json
+C:\Users\hp\OneDrive\Desktop\.NET\HospitalSystem\bin\Debug\net10.0\HospitalSystem.runtimeconfig.json
+C:\Users\hp\OneDrive\Desktop\.NET\HospitalSystem\bin\Debug\net10.0\HospitalSystem.dll
+C:\Users\hp\OneDrive\Desktop\.NET\HospitalSystem\bin\Debug\net10.0\HospitalSystem.pdb
+C:\Users\hp\OneDrive\Desktop\.NET\HospitalSystem\obj\Debug\net10.0\HospitalSystem.dll
+C:\Users\hp\OneDrive\Desktop\.NET\HospitalSystem\obj\Debug\net10.0\refint\HospitalSystem.dll
+C:\Users\hp\OneDrive\Desktop\.NET\HospitalSystem\obj\Debug\net10.0\HospitalSystem.pdb
+C:\Users\hp\OneDrive\Desktop\.NET\HospitalSystem\obj\Debug\net10.0\HospitalSystem.genruntimeconfig.cache
+C:\Users\hp\OneDrive\Desktop\.NET\HospitalSystem\obj\Debug\net10.0\ref\HospitalSystem.dll

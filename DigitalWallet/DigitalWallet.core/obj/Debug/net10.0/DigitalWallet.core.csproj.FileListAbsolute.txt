@@ -1,0 +1,12 @@
+C:\Users\hp\OneDrive\Desktop\.NET\DigitalWallet\DigitalWallet.core\bin\Debug\net10.0\DigitalWallet.core.deps.json
+C:\Users\hp\OneDrive\Desktop\.NET\DigitalWallet\DigitalWallet.core\bin\Debug\net10.0\DigitalWallet.core.dll
+C:\Users\hp\OneDrive\Desktop\.NET\DigitalWallet\DigitalWallet.core\bin\Debug\net10.0\DigitalWallet.core.pdb
+C:\Users\hp\OneDrive\Desktop\.NET\DigitalWallet\DigitalWallet.core\obj\Debug\net10.0\DigitalWallet.core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\OneDrive\Desktop\.NET\DigitalWallet\DigitalWallet.core\obj\Debug\net10.0\DigitalWallet.core.AssemblyInfoInputs.cache
+C:\Users\hp\OneDrive\Desktop\.NET\DigitalWallet\DigitalWallet.core\obj\Debug\net10.0\DigitalWallet.core.AssemblyInfo.cs
+C:\Users\hp\OneDrive\Desktop\.NET\DigitalWallet\DigitalWallet.core\obj\Debug\net10.0\DigitalWallet.core.csproj.CoreCompileInputs.cache
+C:\Users\hp\OneDrive\Desktop\.NET\DigitalWallet\DigitalWallet.core\obj\Debug\net10.0\DigitalWallet.core.sourcelink.json
+C:\Users\hp\OneDrive\Desktop\.NET\DigitalWallet\DigitalWallet.core\obj\Debug\net10.0\DigitalWallet.core.dll
+C:\Users\hp\OneDrive\Desktop\.NET\DigitalWallet\DigitalWallet.core\obj\Debug\net10.0\refint\DigitalWallet.core.dll
+C:\Users\hp\OneDrive\Desktop\.NET\DigitalWallet\DigitalWallet.core\obj\Debug\net10.0\DigitalWallet.core.pdb
+C:\Users\hp\OneDrive\Desktop\.NET\DigitalWallet\DigitalWallet.core\obj\Debug\net10.0\ref\DigitalWallet.core.dll

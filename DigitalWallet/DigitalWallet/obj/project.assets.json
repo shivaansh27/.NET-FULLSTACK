@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net10.0": {}
+    "net10.0": {
+      "DigitalWallet.core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v10.0",
+        "compile": {
+          "bin/placeholder/DigitalWallet.core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DigitalWallet.core.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "DigitalWallet.core/1.0.0": {
+      "type": "project",
+      "path": "../DigitalWallet.core/DigitalWallet.core.csproj",
+      "msbuildProject": "../DigitalWallet.core/DigitalWallet.core.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net10.0": []
+    "net10.0": [
+      "DigitalWallet.core >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\hp\\.nuget\\packages\\": {}
@@ -31,7 +50,11 @@
       "frameworks": {
         "net10.0": {
           "targetAlias": "net10.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\hp\\OneDrive\\Desktop\\.NET\\DigitalWallet\\DigitalWallet.core\\DigitalWallet.core.csproj": {
+              "projectPath": "C:\\Users\\hp\\OneDrive\\Desktop\\.NET\\DigitalWallet\\DigitalWallet.core\\DigitalWallet.core.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
