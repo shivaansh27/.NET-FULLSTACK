@@ -1,0 +1,15 @@
+C:\Users\hp\OneDrive\Desktop\.NET\TwelthDay\bin\Debug\net10.0\TwelthDay.exe
+C:\Users\hp\OneDrive\Desktop\.NET\TwelthDay\bin\Debug\net10.0\TwelthDay.deps.json
+C:\Users\hp\OneDrive\Desktop\.NET\TwelthDay\bin\Debug\net10.0\TwelthDay.runtimeconfig.json
+C:\Users\hp\OneDrive\Desktop\.NET\TwelthDay\bin\Debug\net10.0\TwelthDay.dll
+C:\Users\hp\OneDrive\Desktop\.NET\TwelthDay\bin\Debug\net10.0\TwelthDay.pdb
+C:\Users\hp\OneDrive\Desktop\.NET\TwelthDay\obj\Debug\net10.0\TwelthDay.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\OneDrive\Desktop\.NET\TwelthDay\obj\Debug\net10.0\TwelthDay.AssemblyInfoInputs.cache
+C:\Users\hp\OneDrive\Desktop\.NET\TwelthDay\obj\Debug\net10.0\TwelthDay.AssemblyInfo.cs
+C:\Users\hp\OneDrive\Desktop\.NET\TwelthDay\obj\Debug\net10.0\TwelthDay.csproj.CoreCompileInputs.cache
+C:\Users\hp\OneDrive\Desktop\.NET\TwelthDay\obj\Debug\net10.0\TwelthDay.sourcelink.json
+C:\Users\hp\OneDrive\Desktop\.NET\TwelthDay\obj\Debug\net10.0\TwelthDay.dll
+C:\Users\hp\OneDrive\Desktop\.NET\TwelthDay\obj\Debug\net10.0\refint\TwelthDay.dll
+C:\Users\hp\OneDrive\Desktop\.NET\TwelthDay\obj\Debug\net10.0\TwelthDay.pdb
+C:\Users\hp\OneDrive\Desktop\.NET\TwelthDay\obj\Debug\net10.0\TwelthDay.genruntimeconfig.cache
+C:\Users\hp\OneDrive\Desktop\.NET\TwelthDay\obj\Debug\net10.0\ref\TwelthDay.dll
