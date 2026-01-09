@@ -1,0 +1,15 @@
+C:\Users\hp\OneDrive\Desktop\.NET\SaturdayAssignments\DelAndEve\bin\Debug\net10.0\DelAndEve.exe
+C:\Users\hp\OneDrive\Desktop\.NET\SaturdayAssignments\DelAndEve\bin\Debug\net10.0\DelAndEve.deps.json
+C:\Users\hp\OneDrive\Desktop\.NET\SaturdayAssignments\DelAndEve\bin\Debug\net10.0\DelAndEve.runtimeconfig.json
+C:\Users\hp\OneDrive\Desktop\.NET\SaturdayAssignments\DelAndEve\bin\Debug\net10.0\DelAndEve.dll
+C:\Users\hp\OneDrive\Desktop\.NET\SaturdayAssignments\DelAndEve\bin\Debug\net10.0\DelAndEve.pdb
+C:\Users\hp\OneDrive\Desktop\.NET\SaturdayAssignments\DelAndEve\obj\Debug\net10.0\DelAndEve.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\OneDrive\Desktop\.NET\SaturdayAssignments\DelAndEve\obj\Debug\net10.0\DelAndEve.AssemblyInfoInputs.cache
+C:\Users\hp\OneDrive\Desktop\.NET\SaturdayAssignments\DelAndEve\obj\Debug\net10.0\DelAndEve.AssemblyInfo.cs
+C:\Users\hp\OneDrive\Desktop\.NET\SaturdayAssignments\DelAndEve\obj\Debug\net10.0\DelAndEve.csproj.CoreCompileInputs.cache
+C:\Users\hp\OneDrive\Desktop\.NET\SaturdayAssignments\DelAndEve\obj\Debug\net10.0\DelAndEve.sourcelink.json
+C:\Users\hp\OneDrive\Desktop\.NET\SaturdayAssignments\DelAndEve\obj\Debug\net10.0\DelAndEve.dll
+C:\Users\hp\OneDrive\Desktop\.NET\SaturdayAssignments\DelAndEve\obj\Debug\net10.0\refint\DelAndEve.dll
+C:\Users\hp\OneDrive\Desktop\.NET\SaturdayAssignments\DelAndEve\obj\Debug\net10.0\DelAndEve.pdb
+C:\Users\hp\OneDrive\Desktop\.NET\SaturdayAssignments\DelAndEve\obj\Debug\net10.0\DelAndEve.genruntimeconfig.cache
+C:\Users\hp\OneDrive\Desktop\.NET\SaturdayAssignments\DelAndEve\obj\Debug\net10.0\ref\DelAndEve.dll

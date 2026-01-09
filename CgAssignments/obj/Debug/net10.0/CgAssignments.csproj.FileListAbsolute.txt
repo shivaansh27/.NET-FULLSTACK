@@ -1,0 +1,15 @@
+C:\Users\hp\OneDrive\Desktop\.NET\CgAssignments\bin\Debug\net10.0\CgAssignments.exe
+C:\Users\hp\OneDrive\Desktop\.NET\CgAssignments\bin\Debug\net10.0\CgAssignments.deps.json
+C:\Users\hp\OneDrive\Desktop\.NET\CgAssignments\bin\Debug\net10.0\CgAssignments.runtimeconfig.json
+C:\Users\hp\OneDrive\Desktop\.NET\CgAssignments\bin\Debug\net10.0\CgAssignments.dll
+C:\Users\hp\OneDrive\Desktop\.NET\CgAssignments\bin\Debug\net10.0\CgAssignments.pdb
+C:\Users\hp\OneDrive\Desktop\.NET\CgAssignments\obj\Debug\net10.0\CgAssignments.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\OneDrive\Desktop\.NET\CgAssignments\obj\Debug\net10.0\CgAssignments.AssemblyInfoInputs.cache
+C:\Users\hp\OneDrive\Desktop\.NET\CgAssignments\obj\Debug\net10.0\CgAssignments.AssemblyInfo.cs
+C:\Users\hp\OneDrive\Desktop\.NET\CgAssignments\obj\Debug\net10.0\CgAssignments.csproj.CoreCompileInputs.cache
+C:\Users\hp\OneDrive\Desktop\.NET\CgAssignments\obj\Debug\net10.0\CgAssignments.sourcelink.json
+C:\Users\hp\OneDrive\Desktop\.NET\CgAssignments\obj\Debug\net10.0\CgAssignments.dll
+C:\Users\hp\OneDrive\Desktop\.NET\CgAssignments\obj\Debug\net10.0\refint\CgAssignments.dll
+C:\Users\hp\OneDrive\Desktop\.NET\CgAssignments\obj\Debug\net10.0\CgAssignments.pdb
+C:\Users\hp\OneDrive\Desktop\.NET\CgAssignments\obj\Debug\net10.0\CgAssignments.genruntimeconfig.cache
+C:\Users\hp\OneDrive\Desktop\.NET\CgAssignments\obj\Debug\net10.0\ref\CgAssignments.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "DelAndEve/1.0.0": {
+        "runtime": {
+          "DelAndEve.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DelAndEve/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
