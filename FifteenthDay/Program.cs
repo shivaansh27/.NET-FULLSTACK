@@ -44,12 +44,32 @@ class Program
         //     writer.WriteLine(user.name);
         // }
         // Console.WriteLine("Done");
-        User user = new User();
-        using(StreamReader reader = new StreamReader("log.txt"))
+
+        // User user = new User();
+        // using(StreamReader reader = new StreamReader("log.txt"))
+        // {
+        //     user.id = int.Parse(reader.ReadLine());
+        //     user.name = reader.ReadLine();
+        // }
+        // Console.WriteLine($"UserId: {user.id} Name: {user.name}");
+
+        User user = new User
         {
-            user.id = int.Parse(reader.ReadLine());
-            user.name = reader.ReadLine();
+            id = 3,
+            name = "James"
+        };
+
+        using(BinaryWriter writer = new BinaryWriter(File.Open("user.bin", FileMode.Create)))
+        {
+            writer.Write(user.id);
+            writer.Write(user.name);
         }
-        Console.WriteLine($"UserId: {user.id} Name: {user.name}");
+        Console.WriteLine("Binary data saved succesfully");
+
+        using(BinaryReader reader = new BinaryReader(File.Open("user.bin", FileMode.Open)))
+        {
+            Console.WriteLine(reader.ReadInt32());
+            Console.WriteLine(reader.ReadString());
+        }
     }
 }
