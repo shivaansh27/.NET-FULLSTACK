@@ -1,0 +1,15 @@
+C:\Users\hp\OneDrive\Desktop\.NET\SeventeenthDay\bin\Debug\net10.0\SeventeenthDay.exe
+C:\Users\hp\OneDrive\Desktop\.NET\SeventeenthDay\bin\Debug\net10.0\SeventeenthDay.deps.json
+C:\Users\hp\OneDrive\Desktop\.NET\SeventeenthDay\bin\Debug\net10.0\SeventeenthDay.runtimeconfig.json
+C:\Users\hp\OneDrive\Desktop\.NET\SeventeenthDay\bin\Debug\net10.0\SeventeenthDay.dll
+C:\Users\hp\OneDrive\Desktop\.NET\SeventeenthDay\bin\Debug\net10.0\SeventeenthDay.pdb
+C:\Users\hp\OneDrive\Desktop\.NET\SeventeenthDay\obj\Debug\net10.0\SeventeenthDay.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\OneDrive\Desktop\.NET\SeventeenthDay\obj\Debug\net10.0\SeventeenthDay.AssemblyInfoInputs.cache
+C:\Users\hp\OneDrive\Desktop\.NET\SeventeenthDay\obj\Debug\net10.0\SeventeenthDay.AssemblyInfo.cs
+C:\Users\hp\OneDrive\Desktop\.NET\SeventeenthDay\obj\Debug\net10.0\SeventeenthDay.csproj.CoreCompileInputs.cache
+C:\Users\hp\OneDrive\Desktop\.NET\SeventeenthDay\obj\Debug\net10.0\SeventeenthDay.sourcelink.json
+C:\Users\hp\OneDrive\Desktop\.NET\SeventeenthDay\obj\Debug\net10.0\SeventeenthDay.dll
+C:\Users\hp\OneDrive\Desktop\.NET\SeventeenthDay\obj\Debug\net10.0\refint\SeventeenthDay.dll
+C:\Users\hp\OneDrive\Desktop\.NET\SeventeenthDay\obj\Debug\net10.0\SeventeenthDay.pdb
+C:\Users\hp\OneDrive\Desktop\.NET\SeventeenthDay\obj\Debug\net10.0\SeventeenthDay.genruntimeconfig.cache
+C:\Users\hp\OneDrive\Desktop\.NET\SeventeenthDay\obj\Debug\net10.0\ref\SeventeenthDay.dll

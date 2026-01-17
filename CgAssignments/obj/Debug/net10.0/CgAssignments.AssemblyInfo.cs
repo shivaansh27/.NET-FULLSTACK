@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CgAssignments")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+84ca4abf2bccdc5755f43bda5face72da95bef8d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bf964edf09c9d124a80c1b8e407c6cc3023a1c87")]
 [assembly: System.Reflection.AssemblyProductAttribute("CgAssignments")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CgAssignments")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
