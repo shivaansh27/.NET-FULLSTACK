@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hp\\OneDrive\\Desktop\\.NET\\Social_media_application\\Social_media_application.csproj",
-      "projectName": "Social_media_application",
-      "projectPath": "C:\\Users\\hp\\OneDrive\\Desktop\\.NET\\Social_media_application\\Social_media_application.csproj",
+      "projectUniqueName": "C:\\Users\\hp\\OneDrive\\Desktop\\.NET\\TopBrain\\TopBrain.csproj",
+      "projectName": "TopBrain",
+      "projectPath": "C:\\Users\\hp\\OneDrive\\Desktop\\.NET\\TopBrain\\TopBrain.csproj",
       "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hp\\OneDrive\\Desktop\\.NET\\Social_media_application\\obj\\",
+      "outputPath": "C:\\Users\\hp\\OneDrive\\Desktop\\.NET\\TopBrain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config"

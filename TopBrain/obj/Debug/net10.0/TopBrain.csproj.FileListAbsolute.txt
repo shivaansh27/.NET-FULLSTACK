@@ -1,0 +1,15 @@
+C:\Users\hp\OneDrive\Desktop\.NET\TopBrain\bin\Debug\net10.0\TopBrain.exe
+C:\Users\hp\OneDrive\Desktop\.NET\TopBrain\bin\Debug\net10.0\TopBrain.deps.json
+C:\Users\hp\OneDrive\Desktop\.NET\TopBrain\bin\Debug\net10.0\TopBrain.runtimeconfig.json
+C:\Users\hp\OneDrive\Desktop\.NET\TopBrain\bin\Debug\net10.0\TopBrain.dll
+C:\Users\hp\OneDrive\Desktop\.NET\TopBrain\bin\Debug\net10.0\TopBrain.pdb
+C:\Users\hp\OneDrive\Desktop\.NET\TopBrain\obj\Debug\net10.0\TopBrain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\OneDrive\Desktop\.NET\TopBrain\obj\Debug\net10.0\TopBrain.AssemblyInfoInputs.cache
+C:\Users\hp\OneDrive\Desktop\.NET\TopBrain\obj\Debug\net10.0\TopBrain.AssemblyInfo.cs
+C:\Users\hp\OneDrive\Desktop\.NET\TopBrain\obj\Debug\net10.0\TopBrain.csproj.CoreCompileInputs.cache
+C:\Users\hp\OneDrive\Desktop\.NET\TopBrain\obj\Debug\net10.0\TopBrain.sourcelink.json
+C:\Users\hp\OneDrive\Desktop\.NET\TopBrain\obj\Debug\net10.0\TopBrain.dll
+C:\Users\hp\OneDrive\Desktop\.NET\TopBrain\obj\Debug\net10.0\refint\TopBrain.dll
+C:\Users\hp\OneDrive\Desktop\.NET\TopBrain\obj\Debug\net10.0\TopBrain.pdb
+C:\Users\hp\OneDrive\Desktop\.NET\TopBrain\obj\Debug\net10.0\TopBrain.genruntimeconfig.cache
+C:\Users\hp\OneDrive\Desktop\.NET\TopBrain\obj\Debug\net10.0\ref\TopBrain.dll
